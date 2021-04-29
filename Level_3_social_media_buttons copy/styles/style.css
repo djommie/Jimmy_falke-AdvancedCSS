@@ -2,6 +2,8 @@
   margin: 0;
 }
 
+/* Zeer ontevreden, kreeg het niet voor elkaar alles te laten schalen zonder dat de transitie alle balkjes mee naar links trok, 
+waardoor alle elementen nu absoluut gepositioneerd zijn. */
 .social {
   height: 50px;
   width: 55px;
